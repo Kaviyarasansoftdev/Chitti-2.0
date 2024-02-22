@@ -8,3 +8,8 @@
 .resultimg{
     @apply rounded-2xl border mb-5
 }
+
+.read-more{
+    @apply text-red-700
+}
+
